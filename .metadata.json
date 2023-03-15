@@ -1,10 +1,10 @@
 [
   {
-    "package": "vardpoor",
+    "package": "surveyplanning",
     "oncran": true
   },
   {
-    "package": "surveyplanning",
+    "package": "vardpoor",
     "oncran": true
   }
 ]
